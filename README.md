@@ -1,2 +1,4 @@
-# axum-exp
- Trying out Axum and Rust to build blazingly fast services!
+Axum Expirements
+
+Trying out Axum and Rust to build blazingly fast services 🚀
+
